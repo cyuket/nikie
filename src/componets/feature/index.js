@@ -9,7 +9,7 @@ import CountDown from './countDown'
        <Carrousel/>
         <div className="artist_name">
           <div className="wrapper">
-              Happy Birthday Dear Bestie
+              Happy Birthday Bestie
               
           </div>  
         </div>

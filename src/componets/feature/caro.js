@@ -1,8 +1,8 @@
  import React from 'react'
  import Slider from "react-slick";
- import image1 from '../../resources/images/nikie1.jpg';
- import image2 from '../../resources/images/nikie2.jpg';
- import image3 from '../../resources/images/nikie3.jpg';
+ import image1 from '../../resources/images/nikie4.jpg';
+ import image2 from '../../resources/images/nikie5.jpg';
+ import image3 from '../../resources/images/nikie6.png';
  const Carrousel = ()=> {
     let settings = {
         dots: false,
